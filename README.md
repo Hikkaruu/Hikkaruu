@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bartek</h1>
 <h3 align="center">I'm Bachelor of Computer Science and a Master's student in Teleinformatics</h3>
-<h3 align="center">I'm looking for opportunities as a Software Engineer</h3>
+<h3 align="center">I'm looking for opportunities as a Software Engineer or in Gamedev</h3>
 
 <p align="left">
 </p>
