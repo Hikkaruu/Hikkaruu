@@ -19,7 +19,7 @@
 
 # **Selected Projects**
 
-## 3D Souls-like game made in UE5
+## 3D Souls-like game made in Unreal Engine 5
 ![serath_fight1](https://github.com/Hikkaruu/My-Bachelor-Thesis-UnrealEngine5Game/raw/main/serath3.gif)
 ![serath_fight2](https://github.com/Hikkaruu/My-Bachelor-Thesis-UnrealEngine5Game/raw/main/serath2.gif)
 ![foggate](https://github.com/Hikkaruu/My-Bachelor-Thesis-UnrealEngine5Game/raw/main/foggate.gif)
