@@ -2,7 +2,7 @@
 
 - 🌱 I hold an Bachelor degree in Computer Science and I'm a Master's student in Teleinformatics
 - 💻 I have a broad interest in technology, including **backend development**, **frontend development** and **gamedev**.
-- 📚 I love learning new things and am always eager to expand my knowledge in new technologies.
+- 📚 I love learning new things and I'm always eager to expand my knowledge in new technologies.
 - 🤝 I'm open to collaboration and always excited to participate in interesting projects.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Hikkaruu.Hikkaruu) ![Open to Work](https://img.shields.io/badge/Open%20to-Work-brightgreen) ![Email](https://img.shields.io/badge/Email-wolinski2001%40wp.pl-lightgrey) 
