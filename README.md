@@ -4,9 +4,8 @@
 - 💻 I have a broad interest in technology, including **backend development**, **frontend development** and **gamedev**.
 - 📚 I love learning new things and am always eager to expand my knowledge in new technologies.
 - 🤝 I'm open to collaboration and always excited to participate in interesting projects.
-- 📫 **Email:** wolinski2001@wp.pl
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Hikkaruu.Hikkaruu)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Hikkaruu.Hikkaruu) ![Open to Work](https://img.shields.io/badge/Open%20to-Work-brightgreen) ![Email](https://img.shields.io/badge/Email-wolinski2001%40wp.pl-lightgrey) 
 
 # **Tech Stack**
 
